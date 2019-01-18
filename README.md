@@ -1,0 +1,1 @@
+# logback-junit-logger-rule
